@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Baseticatrial-BlackItalic';
+  src: url('Baseticatrial-BlackItalic.eot');
+  src: url('Baseticatrial-BlackItalic.woff2') format('woff2'),
+       url('Baseticatrial-BlackItalic.woff') format('woff'),
+       url('Baseticatrial-BlackItalic.ttf') format('truetype'),
+       url('Baseticatrial-BlackItalic.svg#Baseticatrial-BlackItalic') format('svg'),
+       url('Baseticatrial-BlackItalic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

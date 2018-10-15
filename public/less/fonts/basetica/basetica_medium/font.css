@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Baseticatrial-Medium';
+  src: url('Baseticatrial-Medium.eot');
+  src: url('Baseticatrial-Medium.woff2') format('woff2'),
+       url('Baseticatrial-Medium.woff') format('woff'),
+       url('Baseticatrial-Medium.ttf') format('truetype'),
+       url('Baseticatrial-Medium.svg#Baseticatrial-Medium') format('svg'),
+       url('Baseticatrial-Medium.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

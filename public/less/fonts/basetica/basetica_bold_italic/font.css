@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Baseticatrial-BoldItalic';
+  src: url('Baseticatrial-BoldItalic.eot');
+  src: url('Baseticatrial-BoldItalic.woff2') format('woff2'),
+       url('Baseticatrial-BoldItalic.woff') format('woff'),
+       url('Baseticatrial-BoldItalic.ttf') format('truetype'),
+       url('Baseticatrial-BoldItalic.svg#Baseticatrial-BoldItalic') format('svg'),
+       url('Baseticatrial-BoldItalic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Baseticatrial-LightItalic';
+  src: url('Baseticatrial-LightItalic.eot');
+  src: url('Baseticatrial-LightItalic.woff2') format('woff2'),
+       url('Baseticatrial-LightItalic.woff') format('woff'),
+       url('Baseticatrial-LightItalic.ttf') format('truetype'),
+       url('Baseticatrial-LightItalic.svg#Baseticatrial-LightItalic') format('svg'),
+       url('Baseticatrial-LightItalic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

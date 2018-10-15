@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'MaaxMonoTrial-Italic';
+  src: url('MaaxMonoTrial-Italic.eot');
+  src: url('MaaxMonoTrial-Italic.woff2') format('woff2'),
+       url('MaaxMonoTrial-Italic.woff') format('woff'),
+       url('MaaxMonoTrial-Italic.ttf') format('truetype'),
+       url('MaaxMonoTrial-Italic.svg#MaaxMonoTrial-Italic') format('svg'),
+       url('MaaxMonoTrial-Italic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

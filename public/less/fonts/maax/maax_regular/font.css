@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'MaaxMonoTrial-Regular';
+  src: url('MaaxMonoTrial-Regular.eot');
+  src: url('MaaxMonoTrial-Regular.woff2') format('woff2'),
+       url('MaaxMonoTrial-Regular.woff') format('woff'),
+       url('MaaxMonoTrial-Regular.ttf') format('truetype'),
+       url('MaaxMonoTrial-Regular.svg#MaaxMonoTrial-Regular') format('svg'),
+       url('MaaxMonoTrial-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
