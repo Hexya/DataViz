@@ -1,4 +1,4 @@
-threejs-starter-kit
+threejs Data visualisation
 ===================
 
 It uses Three.js and Greensock as depencies.
